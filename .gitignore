@@ -1,0 +1,6 @@
+BouffaloLabDevCube/
+M0sense_BL702_example/
+BouffaloLabDevCube/*
+M0sense_BL702_example/*
+.bin/
+**/submodule_commit_info.txt
