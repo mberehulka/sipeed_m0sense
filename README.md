@@ -14,4 +14,4 @@ Download "Bouffalo Lab Dev Cube" from https://dev.bouffalolab.com/download and u
 ./serial.sh
 ```
 
-Double check if the current folder do not have a space in the end !, ex.: 'home/.../sipeed_m0sense /...'
+Double check if the current folder has any space, ex.: 'home/.../sipeed_m0sense /...', may cause problems !
