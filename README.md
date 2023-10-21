@@ -6,7 +6,7 @@ Start board with GPIO pin 28 high to enter "programming" mode.
 
 Download "Bouffalo Lab Dev Cube" from https://dev.bouffalolab.com/download and upload the default firmware available at https://dl.sipeed.com/shareURL/Maix-Zero/M0sense/7_Example_demos/default_firmware
 
-<img src="./assets/settings_1.png" width=50%><img src="./assets/settings_2.png" width=50%>
+<img src="./assets/settings_1.png" width=25%><img src="./assets/settings_2.png" width=75%>
 
 ```
 ./setup.sh
