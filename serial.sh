@@ -7,4 +7,5 @@ while true; do
     sleep 1
 done
 
-sudo cat /dev/ttyACM$DPORT
+echo device found at ttyACM$DPORT
+sudo screen /dev/ttyACM$DPORT 2000000

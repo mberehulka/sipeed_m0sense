@@ -13,3 +13,5 @@ Download "Bouffalo Lab Dev Cube" from https://dev.bouffalolab.com/download and u
 ./build.sh blink
 ./serial.sh
 ```
+
+Double check if the current folder do not have a space in the end !, ex.: 'home/.../sipeed_m0sense /...'

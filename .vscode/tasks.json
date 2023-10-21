@@ -3,7 +3,7 @@
     "tasks": [
         {
             "label": "A",
-            "command": "./build.sh blink",
+            "command": "./build.sh test",
             "type": "shell",
             "presentation": {
                 "reveal": "always",
