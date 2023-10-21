@@ -26,4 +26,3 @@ echo m0sense device found at $DMNTP
 sudo mkdir -p /mnt/m0sense
 sudo mount /dev/$DMNTP /mnt/m0sense/
 sudo rsync --progress  .bin/${APP}.uf2 /mnt/m0sense
-./serial.sh
